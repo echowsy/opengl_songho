@@ -1,0 +1,17 @@
+﻿  Controller.cpp
+  ControllerFormGL.cpp
+  ControllerGL.cpp
+  ControllerMain.cpp
+  DialogWindow.cpp
+  glExtension.cpp
+  Log.cpp
+  main.cpp
+  Matrices.cpp
+  ModelGL.cpp
+  procedure.cpp
+  ViewFormGL.cpp
+  ViewGL.cpp
+  wcharUtil.cpp
+  Window.cpp
+matrixModelView.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

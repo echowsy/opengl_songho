@@ -1,0 +1,2 @@
+﻿Controller.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  matrixProjection.vcxproj -> D:\project\opengl_songho\matrixProjection\src\..\bin\matrixProjection.exe
