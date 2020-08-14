@@ -1,14 +1,13 @@
-﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
-  Window.cpp
-  ViewGL.cpp
-  procedure.cpp
-  ModelGL.cpp
-  main.cpp
+﻿  Controller.cpp
   ControllerGL.cpp
-  Controller.cpp
+  main.cpp
+  ModelGL.cpp
+  procedure.cpp
+  ViewGL.cpp
+  Window.cpp
   正在生成代码...
-Controller.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
   
 glWinSimple.exe.manifest : manifest authoring warning 81010002: Unrecognized Element "dpiAwareness" in namespace "http://schemas.microsoft.com/SMI/2016/WindowsSettings".
   
   glWinSimple.vcxproj -> D:\project\opengl_songho\glWinSimple\src\\..\bin\glWinSimple.exe
+  glWinSimple.vcxproj -> D:\project\opengl_songho\glWinSimple\src\\..\bin\glWinSimple.pdb (Full PDB)
