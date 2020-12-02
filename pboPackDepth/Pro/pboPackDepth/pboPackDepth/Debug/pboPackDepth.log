@@ -1,0 +1,14 @@
+﻿  glExtension.cpp
+  main.cpp
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(660): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(677): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(692): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(703): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(802): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(803): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(833): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(834): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\opengl_songho\pbopackdepth\src\main.cpp(842): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Timer.cpp
+  正在生成代码...
+  pboPackDepth.vcxproj -> D:\project\opengl_songho\pboPackDepth\Pro\pboPackDepth\Debug\pboPackDepth.exe
