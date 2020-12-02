@@ -34,9 +34,9 @@ const float NEAR_PLANE = 0.1f;
 const float FAR_PLANE = 1000.0f;
 const int   MAX_LOG_LENGTH = 4096;
 const float OBJ_SCALE = 0.01f;
-const std::string OBJ_MODEL = "data/debugger_small_5k.obj";
-const std::string OBJ_CAM = "data/camera.obj";
-const std::string FONT_FILE = "data/walkway32_bold.fnt";
+const std::string OBJ_MODEL = "D:/project/opengl_songho/OrbitCamera/bin/data/debugger_small_5k.obj";
+const std::string OBJ_CAM = "D:/project/opengl_songho/OrbitCamera/bin/data/camera.obj";
+const std::string FONT_FILE = "D:/project/opengl_songho/OrbitCamera/bin/data/walkway32_bold.fnt";
 
 // flat shading ===========================================
 const char* vsSource1 = R"(
